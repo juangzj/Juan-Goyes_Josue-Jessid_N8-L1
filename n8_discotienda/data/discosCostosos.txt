@@ -1,0 +1,10 @@
+Reporte de discos Pop Rock costosos
+====================================
+El precio del disco es mayor que 1000
+Precio3600.0
+El precio del disco es mayor que 1000
+Precio4050.0
+El precio del disco es mayor que 1000
+Precio3600.0
+El precio del disco es mayor que 1000
+Precio2600.0
